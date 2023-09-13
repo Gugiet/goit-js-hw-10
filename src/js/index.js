@@ -65,4 +65,3 @@ function renderMarkupInfo(data) {
 
   catInfo.innerHTML = beerdCard;
 }
-// update
